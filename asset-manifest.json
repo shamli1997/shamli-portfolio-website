@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/shamli-portfolio-website/static/css/main.9555eeae.css",
+    "main.js": "/shamli-portfolio-website/static/js/main.e5bf5513.js",
+    "static/css/148.85bd1e08.chunk.css": "/shamli-portfolio-website/static/css/148.85bd1e08.chunk.css",
+    "static/js/148.c9d244b9.chunk.js": "/shamli-portfolio-website/static/js/148.c9d244b9.chunk.js",
+    "static/css/191.a4e3e0b2.chunk.css": "/shamli-portfolio-website/static/css/191.a4e3e0b2.chunk.css",
+    "static/js/191.fb7ddade.chunk.js": "/shamli-portfolio-website/static/js/191.fb7ddade.chunk.js",
+    "static/media/awpaward.jpg": "/shamli-portfolio-website/static/media/awpaward.be86ff6f48927119bc70.jpg",
+    "static/media/dv1.png": "/shamli-portfolio-website/static/media/dv1.c3129d0a200e20a81631.png",
+    "static/media/pythonaward.jpeg": "/shamli-portfolio-website/static/media/pythonaward.804dfc3ee86999fac4d3.jpeg",
+    "static/media/dv2.png": "/shamli-portfolio-website/static/media/dv2.b54b170e614ddbabdb7a.png",
+    "static/media/Montserrat-Regular.ttf": "/shamli-portfolio-website/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/covidproject.PNG": "/shamli-portfolio-website/static/media/covidproject.387d9ab482c1a2357450.PNG",
+    "static/media/sculogo.png": "/shamli-portfolio-website/static/media/sculogo.dd73ec483597abe8e60a.png",
+    "static/media/coeplogo.jpeg": "/shamli-portfolio-website/static/media/coeplogo.bcd4f8a5649e071d1f95.jpeg",
+    "static/media/Agustina.woff": "/shamli-portfolio-website/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/awardlogo.png": "/shamli-portfolio-website/static/media/awardlogo.7424fa3296c3d37b803a.png",
+    "static/media/manOnTable.svg": "/shamli-portfolio-website/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/contactMailDark.svg": "/shamli-portfolio-website/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/shamli-portfolio-website/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/quantiphilogo.png": "/shamli-portfolio-website/static/media/quantiphilogo.d540eb30ab62d8229468.png",
+    "static/media/skill.svg": "/shamli-portfolio-website/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "static/media/cybagelogo2.webp": "/shamli-portfolio-website/static/media/cybagelogo2.36b1df12588ae9284445.webp",
+    "index.html": "/shamli-portfolio-website/index.html",
+    "static/media/talksCardBack.svg": "/shamli-portfolio-website/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.9555eeae.css.map": "/shamli-portfolio-website/static/css/main.9555eeae.css.map",
+    "main.e5bf5513.js.map": "/shamli-portfolio-website/static/js/main.e5bf5513.js.map",
+    "148.85bd1e08.chunk.css.map": "/shamli-portfolio-website/static/css/148.85bd1e08.chunk.css.map",
+    "148.c9d244b9.chunk.js.map": "/shamli-portfolio-website/static/js/148.c9d244b9.chunk.js.map",
+    "191.a4e3e0b2.chunk.css.map": "/shamli-portfolio-website/static/css/191.a4e3e0b2.chunk.css.map",
+    "191.fb7ddade.chunk.js.map": "/shamli-portfolio-website/static/js/191.fb7ddade.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9555eeae.css",
+    "static/js/main.e5bf5513.js"
+  ]
+}
