@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/shamli-portfolio-website/static/css/main.9555eeae.css",
-    "main.js": "/shamli-portfolio-website/static/js/main.abcd2dca.js",
+    "main.js": "/shamli-portfolio-website/static/js/main.79612a4b.js",
     "static/css/148.85bd1e08.chunk.css": "/shamli-portfolio-website/static/css/148.85bd1e08.chunk.css",
     "static/js/148.c9d244b9.chunk.js": "/shamli-portfolio-website/static/js/148.c9d244b9.chunk.js",
     "static/css/191.a4e3e0b2.chunk.css": "/shamli-portfolio-website/static/css/191.a4e3e0b2.chunk.css",
@@ -25,7 +25,7 @@
     "index.html": "/shamli-portfolio-website/index.html",
     "static/media/talksCardBack.svg": "/shamli-portfolio-website/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.9555eeae.css.map": "/shamli-portfolio-website/static/css/main.9555eeae.css.map",
-    "main.abcd2dca.js.map": "/shamli-portfolio-website/static/js/main.abcd2dca.js.map",
+    "main.79612a4b.js.map": "/shamli-portfolio-website/static/js/main.79612a4b.js.map",
     "148.85bd1e08.chunk.css.map": "/shamli-portfolio-website/static/css/148.85bd1e08.chunk.css.map",
     "148.c9d244b9.chunk.js.map": "/shamli-portfolio-website/static/js/148.c9d244b9.chunk.js.map",
     "191.a4e3e0b2.chunk.css.map": "/shamli-portfolio-website/static/css/191.a4e3e0b2.chunk.css.map",
@@ -33,6 +33,6 @@
   },
   "entrypoints": [
     "static/css/main.9555eeae.css",
-    "static/js/main.abcd2dca.js"
+    "static/js/main.79612a4b.js"
   ]
 }
