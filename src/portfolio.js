@@ -26,7 +26,7 @@ const greeting = {
     "I am Shamli Ingole, a passionate and dedicated professional with 3 years of experience in software development. With a strong academic background and diverse technical skills, I am driven to excel in the field of software development. I thrive in challenging environments, constantly seeking opportunities to enhance my expertise and contribute to impactful projects."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1CHNMw5978addJDjDI_gs36bkYtJijc4i/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1tUc9-P8VqkF6FCmLI6q8TS1vDwnpzmcF/view?usp=drive_link", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
