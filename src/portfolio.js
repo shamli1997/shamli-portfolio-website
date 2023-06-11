@@ -191,7 +191,7 @@ const workExperiences = {
         "Developed REST APIs using Python’s Tornado framework to trigger Google Cloud Composer Dag which carries out machine learning tasks in Anomaly Detection project.",
         "Developed a scalable microservice responsible for executing the machine learning process for parsing the PDF and extracting data out of it, and integrated it with Firebase and Google Cloud Tasks in PDF parsing and Extraction project.",
         "Collaborated with cross-functional teams to optimize microservices, reducing response times by up to 50% and improving overall system performance.",
-        "Developed a user-friendly web app with Angular for SNHU students to access study material and quizzes, resulting in a 75% increase in student engagement. Conducted extensive UI testing and optimized components, leading to a 95% user satisfaction rate."
+        "Developed a user-friendly web app with React.js for SNHU students to access study material and quizzes, resulting in a 75% increase in student engagement. Conducted extensive UI testing and optimized components, leading to a 95% user satisfaction rate."
       ]
     },
     {
@@ -237,7 +237,7 @@ const bigProjects = {
       projectName: "SNHU Web App",
 
       projectDesc: [
-        "Developed a user-friendly web app with Angular for SNHU students to access study material and quizzes, resulting in a 50% increase in student engagement.",
+        "Developed a user-friendly web app with React.js for SNHU students to access study material and quizzes, resulting in a 50% increase in student engagement.",
         "Conducted extensive UI testing and optimized components, leading to a 99% user satisfaction rate.",
         "Wrote UI test cases for a complex web application using a variety of testing frameworks and tools",
         "Technologies: React.js, HTML, CSS, Javascript"
