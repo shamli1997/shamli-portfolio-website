@@ -182,38 +182,38 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Developer- Full Stack",
+      role: "Full Stack Software Developer",
       company: "Quantiphi",
       companylogo: require("./assets/images/quantiphilogo.png"),
       date: "June 2018 – Present",
       descBullets: [
-        "Optimized microservices and improved application response time by 25% by reducing code execution time using FastAPI and Google Cloud technologies in Automated Document Processing project.",
-        "Developed REST APIs using Python’s Tornado framework to trigger Google Cloud Composer Dag which carries out machine learning tasks in Anomaly Detection project.",
-        "Developed a scalable microservice responsible for executing the machine learning process for parsing the PDF and extracting data out of it, and integrated it with Firebase and Google Cloud Tasks in PDF parsing and Extraction project.",
-        "Collaborated with cross-functional teams to optimize microservices, reducing response times by up to 50% and improving overall system performance.",
-        "Developed a user-friendly web app with React.js for SNHU students to access study material and quizzes, resulting in a 75% increase in student engagement. Conducted extensive UI testing and optimized components, leading to a 95% user satisfaction rate."
+        "Spearheaded the development of REST APIs using Python’s Flask framework to trigger Google Cloud Composer DAG, streamlining workflow processes and reducing manual efforts by over 90%.",
+        "Created a user-friendly Angular-TypeScript Framework web app to access study material and quizzes, resulting in a 70% increase in SNHU student engagement. Achieved 95% user satisfaction through rigorous UI testing and component optimization.",
+        "Optimized microservices and improved application response time by 75% by reducing code execution time using Python FastAPI and Google Cloud technologies in Automated Document Processing project.",
+        "Developed a scalable microservice responsible for executing the machine learning process for parsing the PDF and extracting data out of it, and integrated it with Firebase and Google Cloud Tasks.",
+        "Elevated system performance by 60% through Kubernetes integration, optimizing code with Docker and CI/CD for faster deployment and improved workflow."
       ]
     },
     {
-      role: "Software Engineer",
+      role: "Full Stack Software Engineer",
       company: "Cybage Software",
       companylogo: require("./assets/images/cybagelogo2.webp"),
       date: "May 2017 – May 2018",
       descBullets: [
-        "Developed a python automation framework to test the functionality of multiple components within a data pipeline, resulting in increased efficiency and accuracy of the testing process.",
-        "Successfully integrated a python script with a web-based test case management tool (TestRail), ensuring that test results were recorded and tracked in a centralized location for easy analysis and reporting.",
-        "Led a team to implement a complex web application using modern technologies such as Django REST framework and Reactjs. Actively contributed to the development of key features, resulting in a high-quality, user-friendly application.",
+        "Boosted testing productivity by 80% through the implementation of a Python automation framework improved the efficiency and accuracy of testing multiple components within a data pipeline.",
+        "Implemented Git for version control, Jest for frontend tests, and Swagger for API documentation. Reduced conflicts by 30%, increased test coverage by 40%, and enhanced documentation clarity by 20%. Resulted in refined code management.",
+        "Led an Agile team in developing a sophisticated web application utilizing Django REST framework, React (JavaScript Library), HTML, and CSS, enabling the creation of essential features for a top-tier, user-centric application.",
         "Recognized as top performer in Python training batch within organization, awarded for exceptional understanding and practical application of the language. Developed web apps and data analysis tools, becoming a valuable contributor to the software development team."
       ]
     },
     {
-      role: "Engineer Intern",
+      role: "Software Engineer",
       company: "Rockwell Automation",
       companylogo: require("./assets/images/rockwelllogo.jpeg"),
       date: "Jan 2015 – Sep 2015",
       descBullets: [
-        "Developed an interactive graphic user interface with input/output controls to help monitor and operate equipment using Human Machine Interface (HMI) software.",
-        "Developed ladder logic for Programmable Logic Controller(PLC)."
+        "Engineered a Smart Factory Monitoring and Control System using Java with Spring Boot for the back end and React for the front end employing Object-Oriented Programming (OOP) principles to ensure modular and maintainable code.",
+        "Authored comprehensive unit tests using JUnit for ensuring robust code quality and functionality. Enabled real-time manufacturing process and equipment monitoring in a factory setting."
       ]
     }
   ]
