@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/shamli-portfolio-website/static/css/main.9555eeae.css",
-    "main.js": "/shamli-portfolio-website/static/js/main.fd7803e2.js",
+    "main.js": "/shamli-portfolio-website/static/js/main.86517495.js",
     "static/css/148.85bd1e08.chunk.css": "/shamli-portfolio-website/static/css/148.85bd1e08.chunk.css",
     "static/js/148.c9d244b9.chunk.js": "/shamli-portfolio-website/static/js/148.c9d244b9.chunk.js",
     "static/css/191.a4e3e0b2.chunk.css": "/shamli-portfolio-website/static/css/191.a4e3e0b2.chunk.css",
     "static/js/191.fb7ddade.chunk.js": "/shamli-portfolio-website/static/js/191.fb7ddade.chunk.js",
-    "static/media/awpaward.jpg": "/shamli-portfolio-website/static/media/awpaward.be86ff6f48927119bc70.jpg",
+    "static/media/awpaward.jpg": "/shamli-portfolio-website/static/media/awpaward.5e7b98d6c8de1fc594fb.jpg",
     "static/media/dv1.png": "/shamli-portfolio-website/static/media/dv1.c3129d0a200e20a81631.png",
     "static/media/pythonaward.jpeg": "/shamli-portfolio-website/static/media/pythonaward.804dfc3ee86999fac4d3.jpeg",
     "static/media/dv2.png": "/shamli-portfolio-website/static/media/dv2.b54b170e614ddbabdb7a.png",
@@ -25,7 +25,7 @@
     "index.html": "/shamli-portfolio-website/index.html",
     "static/media/talksCardBack.svg": "/shamli-portfolio-website/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.9555eeae.css.map": "/shamli-portfolio-website/static/css/main.9555eeae.css.map",
-    "main.fd7803e2.js.map": "/shamli-portfolio-website/static/js/main.fd7803e2.js.map",
+    "main.86517495.js.map": "/shamli-portfolio-website/static/js/main.86517495.js.map",
     "148.85bd1e08.chunk.css.map": "/shamli-portfolio-website/static/css/148.85bd1e08.chunk.css.map",
     "148.c9d244b9.chunk.js.map": "/shamli-portfolio-website/static/js/148.c9d244b9.chunk.js.map",
     "191.a4e3e0b2.chunk.css.map": "/shamli-portfolio-website/static/css/191.a4e3e0b2.chunk.css.map",
@@ -33,6 +33,6 @@
   },
   "entrypoints": [
     "static/css/main.9555eeae.css",
-    "static/js/main.fd7803e2.js"
+    "static/js/main.86517495.js"
   ]
 }
