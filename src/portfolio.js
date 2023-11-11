@@ -26,7 +26,7 @@ const greeting = {
     "I am Shamli Ingole, a passionate and dedicated professional with 3 years of experience in software development. With a strong academic background and diverse technical skills, I am driven to excel in the field of software development. I thrive in challenging environments, constantly seeking opportunities to enhance my expertise and contribute to impactful projects."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/12zSCdjl5uaYTNQ7BnsTSTSfJNMxtJphf/view?usp=drive_link", // Set to empty to hide the button
+    "https://drive.google.com/drive/folders/1kbz47hMQOWSDrZz2MBsjtunNqO4jhok3?usp=drive_link", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -183,9 +183,9 @@ const workExperiences = {
   experience: [
     {
       role: "Full Stack Software Developer",
-      company: "Quantiphi",
-      companylogo: require("./assets/images/quantiphilogo.png"),
-      date: "June 2018 – Present",
+      company: "Google Inc. (Contract)",
+      companylogo: require("./assets/images/g_logo.jpeg"),
+      date: "June 2021 – December 2022",
       descBullets: [
         "Spearheaded the development of REST APIs using Python’s Flask framework to trigger Google Cloud Composer DAG, streamlining workflow processes and reducing manual efforts by over 90%.",
         "Created a user-friendly Angular-TypeScript Framework web app to access study material and quizzes, resulting in a 70% increase in SNHU student engagement. Achieved 95% user satisfaction through rigorous UI testing and component optimization.",
@@ -198,7 +198,7 @@ const workExperiences = {
       role: "Full Stack Software Engineer",
       company: "Cybage Software",
       companylogo: require("./assets/images/cybagelogo2.webp"),
-      date: "May 2017 – May 2018",
+      date: "September 2020 – June 2021",
       descBullets: [
         "Boosted testing productivity by 80% through the implementation of a Python automation framework improved the efficiency and accuracy of testing multiple components within a data pipeline.",
         "Implemented Git for version control, Jest for frontend tests, and Swagger for API documentation. Reduced conflicts by 30%, increased test coverage by 40%, and enhanced documentation clarity by 20%. Resulted in refined code management.",
@@ -210,7 +210,7 @@ const workExperiences = {
       role: "Software Engineer",
       company: "Rockwell Automation",
       companylogo: require("./assets/images/rockwelllogo.jpeg"),
-      date: "Jan 2015 – Sep 2015",
+      date: "June 2018 – July 2019",
       descBullets: [
         "Engineered a Smart Factory Monitoring and Control System using Java with Spring Boot for the back end and React for the front end employing Object-Oriented Programming (OOP) principles to ensure modular and maintainable code.",
         "Authored comprehensive unit tests using JUnit for ensuring robust code quality and functionality. Enabled real-time manufacturing process and equipment monitoring in a factory setting."
