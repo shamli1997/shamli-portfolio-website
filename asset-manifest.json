@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/shamli-portfolio-website/static/css/main.23862ee6.css",
-    "main.js": "/shamli-portfolio-website/static/js/main.8f6926ab.js",
+    "main.js": "/shamli-portfolio-website/static/js/main.85777678.js",
     "static/css/148.85bd1e08.chunk.css": "/shamli-portfolio-website/static/css/148.85bd1e08.chunk.css",
     "static/js/148.c9d244b9.chunk.js": "/shamli-portfolio-website/static/js/148.c9d244b9.chunk.js",
     "static/css/191.a4e3e0b2.chunk.css": "/shamli-portfolio-website/static/css/191.a4e3e0b2.chunk.css",
     "static/js/191.fb7ddade.chunk.js": "/shamli-portfolio-website/static/js/191.fb7ddade.chunk.js",
-    "static/media/fall_detect.png": "/shamli-portfolio-website/static/media/fall_detect.7976a39e1d526006893e.png",
-    "static/media/talk.png": "/shamli-portfolio-website/static/media/talk.3925e8e26b86b65bc950.png",
-    "static/media/sa.png": "/shamli-portfolio-website/static/media/sa.fc6f28ea6a61b80ef496.png",
-    "static/media/visual search.png": "/shamli-portfolio-website/static/media/visual search.b07e8a3713e20aee2f42.png",
-    "static/media/productna.png": "/shamli-portfolio-website/static/media/productna.657ab720dffbfc3c3c3b.png",
-    "static/media/product_rec.png": "/shamli-portfolio-website/static/media/product_rec.cb7bc6adede6dace2dbc.png",
-    "static/media/automated_dp.png": "/shamli-portfolio-website/static/media/automated_dp.7c624927a61a47c8f065.png",
     "static/media/profile.JPEG": "/shamli-portfolio-website/static/media/profile.92163b1489a25114e648.JPEG",
-    "static/media/docuchat.png": "/shamli-portfolio-website/static/media/docuchat.d197f36b52414d6b3be2.png",
+    "static/media/fall_detect.png": "/shamli-portfolio-website/static/media/fall_detect.e0e11712708f0fc2ca78.png",
     "static/media/award2.png": "/shamli-portfolio-website/static/media/award2.d2b0ecc40f6d411fc9b2.png",
+    "static/media/productna.png": "/shamli-portfolio-website/static/media/productna.9c3ad8a6ac5901458d9e.png",
+    "static/media/product_rec.png": "/shamli-portfolio-website/static/media/product_rec.9556b762de8ab2e19c65.png",
+    "static/media/visual search.png": "/shamli-portfolio-website/static/media/visual search.7f16c3c86bbbcbc807cf.png",
+    "static/media/automated_dp.png": "/shamli-portfolio-website/static/media/automated_dp.3d37699f761fa7e23c88.png",
+    "static/media/talk.png": "/shamli-portfolio-website/static/media/talk.6123f09701bac412a32b.png",
+    "static/media/docuchat.png": "/shamli-portfolio-website/static/media/docuchat.cb7901bb8c0d6528cd1b.png",
+    "static/media/sa.png": "/shamli-portfolio-website/static/media/sa.48272f68261e3606ea39.png",
     "static/media/pythonaward.jpeg": "/shamli-portfolio-website/static/media/pythonaward.804dfc3ee86999fac4d3.jpeg",
     "static/media/keep_shining.png": "/shamli-portfolio-website/static/media/keep_shining.9694d61fb4496dbf6f1c.png",
     "static/media/web.jpeg": "/shamli-portfolio-website/static/media/web.ac5643e29cca3bd9c7fb.jpeg",
@@ -32,7 +32,7 @@
     "index.html": "/shamli-portfolio-website/index.html",
     "static/media/talksCardBack.svg": "/shamli-portfolio-website/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.23862ee6.css.map": "/shamli-portfolio-website/static/css/main.23862ee6.css.map",
-    "main.8f6926ab.js.map": "/shamli-portfolio-website/static/js/main.8f6926ab.js.map",
+    "main.85777678.js.map": "/shamli-portfolio-website/static/js/main.85777678.js.map",
     "148.85bd1e08.chunk.css.map": "/shamli-portfolio-website/static/css/148.85bd1e08.chunk.css.map",
     "148.c9d244b9.chunk.js.map": "/shamli-portfolio-website/static/js/148.c9d244b9.chunk.js.map",
     "191.a4e3e0b2.chunk.css.map": "/shamli-portfolio-website/static/css/191.a4e3e0b2.chunk.css.map",
@@ -40,6 +40,6 @@
   },
   "entrypoints": [
     "static/css/main.23862ee6.css",
-    "static/js/main.8f6926ab.js"
+    "static/js/main.85777678.js"
   ]
 }
