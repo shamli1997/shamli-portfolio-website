@@ -75,12 +75,13 @@ export default function StartupProject() {
                         isDark ? "dark-mode card-subtitle" : "card-subtitle"
                       }
                     >
-                      <ul>
+                      {/* <ul>
                         <GetDescBullets
                           descBullets={project.projectDesc}
                           isDark={isDark}
                         />
-                      </ul>
+                      </ul> */}
+                      {project.projectDesc}
                       {/* {project.projectDesc} */}
                     </p>
                     {project.footerLink ? (

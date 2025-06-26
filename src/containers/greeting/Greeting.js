@@ -37,7 +37,43 @@ export default function Greeting() {
               >
                 {greeting.subTitle}
               </p>
+              {/* <SocialMedia />
+              <div className="button-greeting-div">
+                <Button text="Contact me" href="#contact" />
+                {greeting.resumeLink && (
+                  <Button
+                    text="See my resume"
+                    newTab={true}
+                    href={greeting.resumeLink}
+                  />
+                )}
+              </div> */}
+            </div>
+          </div>
+          <div className="greeting-image-div">
+            <div className="greeting-right-content">
+              <img
+                src={require("../../assets/images/profile.JPEG")}
+                alt="Profile"
+                className="greeting-photo"
+              />
+
+              <h1
+                className={isDark ? "dark-mode greeting-name" : "greeting-name"}
+              >
+                {greeting.username}
+              </h1>
+
+              <p
+                className={
+                  isDark ? "dark-mode greeting-role" : "greeting-role subTitle"
+                }
+              >
+                Software Engineer | Backend | AI/ML | LLM | RAG
+              </p>
+
               <SocialMedia />
+
               <div className="button-greeting-div">
                 <Button text="Contact me" href="#contact" />
                 {greeting.resumeLink && (
@@ -49,16 +85,6 @@ export default function Greeting() {
                 )}
               </div>
             </div>
-          </div>
-          <div className="greeting-image-div">
-            {illustration.animated ? (
-              <DisplayLottie animationData={landingPerson} />
-            ) : (
-              <img
-                alt="man sitting on table"
-                src={require("../../assets/images/manOnTable.svg")}
-              ></img>
-            )}
           </div>
         </div>
       </div>
